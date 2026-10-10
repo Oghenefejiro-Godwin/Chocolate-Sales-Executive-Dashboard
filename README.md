@@ -96,7 +96,7 @@ I designed a custom **cover page in Photoshop** to give the dashboard a polished
 | Salespeople | Who is driving performance? |
 
 ![Charts](Images/revenue_by_product.png) 
-![Charts](images/marketing_spend_vs_revenue.png)
+![Charts](Images/marketing_spend_vs_revenue.png)
 
 
 ### Calculated fields: how the KPI cards work
