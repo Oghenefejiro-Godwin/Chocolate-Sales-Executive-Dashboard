@@ -73,7 +73,7 @@ I designed a custom **cover page in Photoshop** to give the dashboard a polished
 
 ### Key metrics (KPI cards)
 
-![Charts](images/KPI%20card.png)
+![Charts](Images/KPI_card.png)
 
 | Metric | Question it answers |
 |---|---|
