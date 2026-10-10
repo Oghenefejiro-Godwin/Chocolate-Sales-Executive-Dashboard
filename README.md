@@ -177,7 +177,7 @@ I also added **dashboard actions** (clicking a country, product, channel, or mon
 - At the monthly level, marketing spend has **only a weak relationship with revenue (correlation ≈ 0.15)**, and one month's spend shows no link to the next month's revenue (≈ -0.04).
 - The business spent about **$18.5M on marketing (16.6% of revenue)** across the two years. In 2023 spend fell 1.2% and revenue fell 0.5%, so cutting spend did not hurt sales, and holding it earlier did not grow them.
 
-![Charts](images/marketing_spend_vs_revenue.png)
+![Charts](Images/marketing_spend_vs_revenue.png)
 
 **Why it matters:** a budget this size deserves a closer look at where and when it is spent. This is observational data, so it points to a question worth testing rather than proving that marketing has no effect.
 
@@ -199,7 +199,7 @@ I also added **dashboard actions** (clicking a country, product, channel, or mon
 - The **three gift boxes** (Mixed Assortment, Pralines, Truffle) are only 3 of 12 products, but bring in **about 36% of revenue**. Every product gets roughly the same number of orders (~16,000), so the gap is price: gift boxes earn **$11 to $17 per box** versus **$2.50 to $3.80** for bars and coins.
 - Revenue is **evenly spread across countries** (USA leads at 15.1%, India is lowest at 13.4%), so there is no dependence on a single market. By channel, **Wholesale leads (37%)**, then Online (33%) and Retail (29%).
 
-![Charts](images/revenue_by_product.png)
+![Charts](Images/revenue_by_product.png)
 
 ### Recommendations
 1. **Plan around Q4.** Build stock, staffing and campaigns for November and December, and use the June trough for targeted promotions.
@@ -230,7 +230,7 @@ chocolate-sales-executive-dashboard/
 │   └── Chocolate_Sales.twbx        # Tableau packaged workbook
 ├── csv_files/
 │   └── Chocolate_Sales_Cleaned.csv
-└── images/
+└── Images/
     ├── dashboard.png
     ├── cover-page.png
     └── charts.png
@@ -247,4 +247,4 @@ chocolate-sales-executive-dashboard/
 
 🔗 [GitHub](https://github.com/Oghenefejiro-Godwin) · [Linkedin](https://www.linkedin.com/in/oghenefejiro-ugbama-06b455230/?isSelfProfile=true) · [YouTube: FAGGIO.design](https://youtube.com/@faggio.design)
 
-![Charts](images/Linledn-Banner-1.png)
+![Charts](Images/Linledn-Banner-1.png)
