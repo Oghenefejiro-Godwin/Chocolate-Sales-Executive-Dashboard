@@ -153,7 +153,7 @@ This matters because averaging per-order values would give a misleading number. 
 
 I also added **dashboard actions** (clicking a country, product, channel, or month filters the rest of the dashboard) so management can explore the story themselves.
 
-![Charts](images/dashboard_actions.png)
+![Charts](Images/dashboard_actions.png)
 
 
 ---
