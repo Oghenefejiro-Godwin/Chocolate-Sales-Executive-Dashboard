@@ -95,7 +95,7 @@ I designed a custom **cover page in Photoshop** to give the dashboard a polished
 | Marketing Spend vs Revenue | Is marketing spend actually translating into sales? |
 | Salespeople | Who is driving performance? |
 
-![Charts](images/revenue_by_product.png) 
+![Charts](Images/revenue_by_product.png) 
 ![Charts](images/marketing_spend_vs_revenue.png)
 
 
