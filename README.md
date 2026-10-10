@@ -1,7 +1,7 @@
 # 🍫 Chocolate Sales Executive Dashboard
 ### Seasonality, marketing effectiveness, and the year-over-year drop: built in Python + Tableau
 
-![Dashboard preview](images/dashboard.png)
+![Dashboard preview](Images/dashboard.png)
 
 **🔗 [View the live dashboard on Tableau Public]([https://public.tableau.com/app/profile/oghenefejiro.ugbama/viz/Chocolate_Sales_17908039272310/CoverPage])**
 
