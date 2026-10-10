@@ -69,7 +69,7 @@ df["price_per_box"] = df["price_per_box"].fillna((df["amount"] / df["boxes_shipp
 
 I designed a custom **cover page in Photoshop** to give the dashboard a polished, professional first impression, and added a **navigation button** that takes the viewer straight into the main dashboard.
 
-![Cover page](images/cover-page.png)
+![Cover page](Images/cover-page.png)
 
 ### Key metrics (KPI cards)
 
